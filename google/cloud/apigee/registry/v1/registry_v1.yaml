@@ -1,0 +1,10 @@
+type: google.api.Service
+config_version: 3
+name: apiregistry.googleapis.com
+title: Apigee Registry API
+
+apis:
+- name: google.cloud.apigee.registry.v1.Registry
+
+documentation:
+  summary: Manages machine-readable descriptions of APIs.

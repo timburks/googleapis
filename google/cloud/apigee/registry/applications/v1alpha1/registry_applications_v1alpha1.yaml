@@ -1,0 +1,7 @@
+type: google.api.Service
+config_version: 3
+name: apiregistry.googleapis.com
+title: Apigee Registry API
+
+documentation:
+  summary: Application-specific types used with the API Registry.
